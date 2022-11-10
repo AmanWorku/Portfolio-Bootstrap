@@ -1,0 +1,25 @@
+*:before , *:after{
+  display: none;
+}
+* {
+  font-family: 'Inter', sans-serif;
+}
+.navbar {
+  background-color: #393E46;
+  height: 60px;
+}
+.container-fluid a {
+  color: #F2E7D5;
+}
+.navbar-nav {
+  padding-top: 20px;
+}
+.card-img {
+  width: 200px;
+}
+.bg{
+  background-color: darkslategray;
+}
+.social-medias {
+  padding-top: 25px;
+}
