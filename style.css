@@ -14,12 +14,32 @@
 .navbar-nav {
   padding-top: 20px;
 }
-.card-img {
-  width: 200px;
+.cust_cards{
+  background-color: darkslategray;
+}
+.row .gx-5{
+  width: 80%;
+  margin: auto;
+  padding-top: 100px;
 }
 .bg{
   background-color: darkslategray;
 }
 .social-medias {
   padding-top: 25px;
+}
+.social-medias li{
+  padding-left: 15px;
+}
+.social-medias li:nth-child(1){
+  padding-left: 0;
+}
+.see-proj{
+  height: 60px;
+  background-color: #393E46;
+  border: none;
+}
+.card img{
+  width: 283px;
+  height: 150px;
 }
