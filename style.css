@@ -43,3 +43,18 @@
   width: 283px;
   height: 150px;
 }
+.row .g-0{
+  height: 300px;
+}
+.col-md-4 img{
+  width: 600px;
+}
+.recent{
+  padding: 20px;
+  display: flex;
+  gap: 40px;
+}
+.recent hr{
+  width: 67%;
+  height: 1px;
+}
